@@ -25,7 +25,7 @@
     "cookie-parser": "^1.4.1",
     "eslint": "^2.7.0",
     "express": "~4.x",
-    "joi-es": "11.1.2",
+    "joi-es": "11.3.0",
     "mocha": "^2.3.4",
     "should": "^9.0.2",
     "supertest": "^1.1.0"
